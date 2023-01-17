@@ -1,33 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniela Tonazzolli's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+# Daniela Tonazzolli
+Nursery Teacher
 
 ## Occupation
 
 `Jun 2013 — Jul 2016`
-Private Nanny - Self employed, The Hague, The Netherlands
+**Private Nanny** - Self employed, The Hague, The Netherlands
 
 - Highly organised by manage my schedule, the children’s routines and plan their daily activities.
 - daily update parents on their children’s activities and, periodically, discuss their children’s progress and development. I had to organise both project-based and play-based learning experiences.
@@ -37,7 +18,7 @@ Private Nanny - Self employed, The Hague, The Netherlands
 - Assisted in light housework and laundry to reduce parents' workload.
 
 `May 2011 — Jan 2013`
-Nursery Teacher - La Coccinella NPO, Trento, Italy
+**Nursery Teacher** - La Coccinella NPO, Trento, Italy
 
 - Daily update parents on their children’s activities and, periodically, discuss their children’s progress and development.
 - I had to set up learning spaces with provocations that stimulate the interests of
@@ -47,75 +28,48 @@ the children and anticipate the learning that would happen in the classroom. The
 - I had to provide formal progress updates to senior staff, parents and local authorities.
 
 `Apr 2010 — May 2011`
-Nursery Teacher - Città Futura NPO, Trento, Italy
+**Nursery Teacher** - Città Futura NPO, Trento, Italy
 
 `Jun 2009 — Dec 2009`
-Apprenticeship - Comune di Trento, Trento, Italy
+**Apprenticeship** - Comune di Trento, Trento, Italy
 
-- Apprenticeship as a special educational needs nursery teacher.
+- Special educational needs nursery teacher.
 
 `Jun 2009 — Dec 2009`
-Apprenticeship - Cooperativa Sociale La Rete NPO, Trento, Italy
+**Apprenticeship** - Cooperativa Sociale La Rete NPO, Trento, Italy
 
 - Apprenticeship in a setting for intellectual or developmental disabilities and autistic children and adults with complex communication needs or profound multiple learning disabilities.
 
 ## Education
 
 `2022`
-Makaton Level 1 & 2, Makaton Charity, Cambridge
+**Makaton Level 1 & 2**, Makaton Charity, Cambridge
 
 `2022`
-Autism online training, National Autistic Society, Cambridge
+**Autism online training**, National Autistic Society, Cambridge
 
 - Women and Girls on the autism spectrum.
 
 `2022`
-Atelierista degree, M.I.U.R, Italy
+**Atelierista degree**, M.I.U.R, Italy
 
 `2010`
-Early Years Education and Integrative Services, Istituto Regionale di studi e ricerca sociale, Trento, Italy
+**Early Years Education and Integrative Services**, Istituto Regionale di studi e ricerca sociale, Trento, Italy
 
 - SQA Professional Development Award at SCQF Level 6 and 7.
 - Professional development completed in Early Years Education and Social Services
 
 `2009`
-BTEC National Diploma/Extended Diploma, Don Milani Depero, Rovereto, Italy
+**BTEC National Diploma/Extended Diploma**, Don Milani Depero, Rovereto, Italy
 
 - Social services stream
 
 `2009`
-Multimodal communication for caregivers, European Social Fund, Trento, Italy
+**Multimodal communication for caregivers**, European Social Fund, Trento, Italy
 
 - Multimodal communication tools for Children (Augmented Alternative Communication, Braille, Makaton, Italian Sign Language)
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 
