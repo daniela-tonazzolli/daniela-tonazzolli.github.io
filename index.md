@@ -61,19 +61,32 @@ Apprenticeship - Cooperativa Sociale La Rete NPO, Trento, Italy
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022`
+Makaton Level 1 & 2, Makaton Charity, Cambridge
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2022`
+Autism online training, National Autistic Society, Cambridge
 
-- Sizar
+- Women and Girls on the autism spectrum.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2022`
+Atelierista degree, M.I.U.R, Italy
 
-- Fellow
+`2010`
+Early Years Education and Integrative Services, Istituto Regionale di studi e ricerca sociale, Trento, Italy
 
+- SQA Professional Development Award at SCQF Level 6 and 7.
+- Professional development completed in Early Years Education and Social Services
+
+`2009`
+BTEC National Diploma/Extended Diploma, Don Milani Depero, Rovereto, Italy
+
+- Social services stream
+
+`2009`
+Multimodal communication for caregivers, European Social Fund, Trento, Italy
+
+- Multimodal communication tools for Children (Augmented Alternative Communication, Braille, Makaton, Italian Sign Language)
 
 
 ## Awards
