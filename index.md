@@ -24,6 +24,40 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
+## Occupation
+
+`Jun 2013 — Jul 2016`
+Private Nanny - Self employed, The Hague, The Netherlands
+
+- Highly organised by manage my schedule, the children’s routines and plan their daily activities.
+- daily update parents on their children’s activities and, periodically, discuss their children’s progress and development. I had to organise both project-based and play-based learning experiences.
+- I had to speak up for myself when needed and to learn how to handle difficult situations without the help of colleagues.
+- Developed strong bonds with children through compassionate verbal and physical interaction.
+- Modelled appropriate social behaviours, promoting empathy and kindness.
+- Assisted in light housework and laundry to reduce parents' workload.
+
+`May 2011 — Jan 2013`
+Nursery Teacher - La Coccinella NPO, Trento, Italy
+
+- Daily update parents on their children’s activities and, periodically, discuss their children’s progress and development.
+- I had to set up learning spaces with provocations that stimulate the interests of
+the children and anticipate the learning that would happen in the classroom. The environment always involved a variety of mediums and materials to allow children to express and experience learning in various ways.
+- I had to take observations of the children under my care. The educational work with children and the documentation were interconnected and mutually supportive.
+- Regularly reviewing support put in place and adapting provisions in response to developments and changes.
+- I had to provide formal progress updates to senior staff, parents and local authorities.
+
+`Apr 2010 — May 2011`
+Nursery Teacher - Città Futura NPO, Trento, Italy
+
+`Jun 2009 — Dec 2009`
+Apprenticeship - Comune di Trento, Trento, Italy
+
+- Apprenticeship as a special educational needs nursery teacher.
+
+`Jun 2009 — Dec 2009`
+Apprenticeship - Cooperativa Sociale La Rete NPO, Trento, Italy
+
+- Apprenticeship in a setting for intellectual or developmental disabilities and autistic children and adults with complex communication needs or profound multiple learning disabilities.
 
 ## Education
 
@@ -71,16 +105,7 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
