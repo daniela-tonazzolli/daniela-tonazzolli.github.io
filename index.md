@@ -5,6 +5,7 @@ title: Daniela Tonazzolli's CV
 # Daniela Tonazzolli
 Nursery Teacher
 
+### Contacts
 **mail**: <script type="text/javascript">document.write('\u0064\u002e\u0074\u006f\u006e\u0061\u007a\u007a\u006f\u006c\u006c\u0069\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script> | **phone**: <script type="text/javascript">document.write('\u0030\u0037\u0033\u0036\u0037\u0020\u0038\u0038\u0037\u0030\u0039\u0033')</script>
 
 ## Occupation
