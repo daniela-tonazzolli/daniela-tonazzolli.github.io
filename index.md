@@ -3,27 +3,27 @@ layout: cv
 title: Daniela Tonazzolli's CV
 ---
 # Daniela Tonazzolli
-mail: <script type="text/javascript">document.write('\u0064\u002e\u0074\u006f\u006e\u0061\u007a\u007a\u006f\u006c\u006c\u0069\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script> | phone: <script type="text/javascript">document.write('\u0030\u0037\u0033\u0036\u0037\u0020\u0038\u0038\u0037\u0030\u0039\u0033')</script>
+mail: <script type="text/javascript"> document.write('\u0064\u002e\u0074\u006f\u006e\u0061\u007a\u007a\u006f\u006c\u006c\u0069\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d') </script> | phone: <script type="text/javascript"> document.write('\u0030\u0037\u0033\u0036\u0037\u0020\u0038\u0038\u0037\u0030\u0039\u0033') </script>
 
 ## Occupation
 
 `Jun 2013 — Jul 2016`
 **Private Nanny** - Self employed, The Hague, The Netherlands
 
-- Manage my schedule, the children’s routines and plan their daily activities.
-- Update parents on their children’s daily activities 
-- Discuss their children’s progress and development
+- Plan the children’s routines and their daily activities.
+- Update parents on their children’s daily activities.
+- Discuss their children’s progress and development.
 - Organise both project-based and play-based learning experiences.
 - Speak up for myself when needed and to learn how to handle difficult situations without the help of colleagues.
-- Develop strong bonds with children through compassionate verbal and physical interaction.
+- Developed strong bonds with children through compassionate and respectful interaction.
 - Model appropriate social behaviours, promoting empathy and kindness.
 - Help with light housework and laundry to reduce parents' workload.
 
 `May 2011 — Jan 2013`
 **Nursery Teacher** - La Coccinella NPO, Trento, Italy
 
-- Update parents on their children’s daily activities
-- Discuss children’s progress and development
+- Update parents on their children’s daily activities.
+- Discuss children’s progress and development.
 - Set up learning spaces with provocations that stimulate the interests of the children and anticipate the learning that would happen in the classroom. The environment always involved a variety of mediums and materials to allow children to express and experience learning in various ways.
 - Take observations of the children under my care. The educational work with children and the documentation were interconnected and mutually supportive.
 - Regularly reviewing support put in place and adapting provisions in response to developments and changes.
@@ -44,22 +44,22 @@ mail: <script type="text/javascript">document.write('\u0064\u002e\u0074\u006f\u0
 
 ## Education
 
-`2022`
-**Makaton Levels 1 & 2**, Makaton Charity, Cambridge
-
-`2022`
+`Dec 2022`
 **Autism online training**, National Autistic Society, Cambridge
 
 - Women and Girls on the autism spectrum.
 
-`2022`
+`May 2022 - Jun 2022`
+**Makaton Levels 1 & 2**, Makaton Charity, Cambridge
+
+`Nov 2021`
 **Atelierista degree**, M.I.U.R, Italy
 
 `2010`
 **Early Years Education and Integrative Services**, Istituto Regionale di studi e ricerca sociale, Trento, Italy
 
 - SQA Professional Development Award at SCQF Level 6 and 7.
-- Professional development in Early Years Education and Social Services
+- Professional development in Early Years Education and Social Services.
 
 `2009`
 **BTEC National Diploma/Extended Diploma**, Don Milani Depero, Rovereto, Italy
@@ -69,7 +69,7 @@ mail: <script type="text/javascript">document.write('\u0064\u002e\u0074\u006f\u0
 `2009`
 **Multimodal communication for caregivers**, European Social Fund, Trento, Italy
 
-- Multimodal communication tools for Children (Augmented Alternative Communication, Braille, Makaton, Italian Sign Language)
+- Multimodal communication tools for Children (Augmented Alternative Communication, Braille, Makaton, Italian Sign Language).
 
 
 ## Skills
